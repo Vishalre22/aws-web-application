@@ -39,11 +39,11 @@ This project demonstrates the design and deployment of a secure multi-tier web a
 ### VPC Design
 ![VPC](screenshots/vpc-n-virginia.png.png)
 
-### EC2 & Load Balancer
-![EC2](screenshots/03-ec2-alb.png)
+### Subnets
+![Subnets](screenshots/Subnets.png)
 
-### RDS Configuration
-![RDS](screenshots/04-rds.png)
+### Internet Gateway
+![InternetGateway](screenshots/InternetGateway.png)
 
 ### Route 53
 ![Route53](screenshots/05-route53.png)
