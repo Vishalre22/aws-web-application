@@ -45,8 +45,47 @@ This project demonstrates the design and deployment of a secure multi-tier web a
 ### Internet Gateway
 ![InternetGateway](screenshots/InternetGateway.png)
 
-### Route 53
-![Route53](screenshots/05-route53.png)
+### NAT Gateway
+![NATGateway](screenshots/NATGateway.png)
+
+### Route Tables
+![RouteTables](screenshots/RouteTables.png)
+
+### Route Tables
+![RouteTables](screenshots/RouteTables.png)
+
+### Route Tables Config
+![RouteTablesConfig](screenshots/RouteTables.png)
+
+### Route Tables
+![RouteTables](screenshots/RouteTables.png)
+
+### Route Tables
+![RouteTables](screenshots/RouteTables.png)
+
+### Route Tables
+![RouteTables](screenshots/RouteTables.png)
+
+### Route Tables
+![RouteTables](screenshots/RouteTables.png)
+
+### Route Tables
+![RouteTables](screenshots/RouteTables.png)
+
+### Route Tables
+![RouteTables](screenshots/RouteTables.png)
+
+### Route Tables
+![RouteTables](screenshots/RouteTables.png)
+
+### Route Tables
+![RouteTables](screenshots/RouteTables.png)
+
+### Route Tables
+![RouteTables](screenshots/RouteTables.png)
+
+### Route Tables
+![RouteTables](screenshots/RouteTables.png)
 
 ## 📄 Author
 **Vishal Aramur**  
