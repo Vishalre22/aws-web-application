@@ -51,8 +51,8 @@ This project demonstrates the design and deployment of a secure multi-tier web a
 ### Route Tables
 ![RouteTables](screenshots/RouteTables.png)
 
-### Route Tables
-![RouteTables](screenshots/RouteTables.png)
+### Route Tables Config
+![RouteTables](screenshots/RouteTablesRoutes(configurations).png)
 
 ### Route Tables Config
 ![RouteTablesConfig](screenshots/RouteTables.png)
