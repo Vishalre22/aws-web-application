@@ -37,7 +37,7 @@ This project demonstrates the design and deployment of a secure multi-tier web a
 ## 📸 Implementation Screenshots
 
 ### VPC Design
-![VPC](screenshots/screenshots/VPC N-Virginia.png)
+![VPC](screenshots/VPC N-Virginia.png)
 
 ### EC2 & Load Balancer
 ![EC2](screenshots/03-ec2-alb.png)
