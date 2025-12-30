@@ -1,5 +1,3 @@
-<img width="831" height="807" alt="LoadBalancer-DNS_URL" src="https://github.com/user-attachments/assets/40885cb8-2865-4d79-be26-be3f2db49bab" /># AWS Web Application Deployment
-
 ## 📌 Project Overview
 This project demonstrates the design and deployment of a secure multi-tier web application on AWS using managed services and cloud best practice
 
@@ -55,7 +53,7 @@ This project demonstrates the design and deployment of a secure multi-tier web a
 ![RouteTables](screenshots/RouteTablesRoutes(configurations).png)
 
 ### Instance-Private_Subnet
-![Instance-Private_Subnet](screenshots/Instance-Private_Subnets.png)
+![Instance-Private_Subnet](screenshots/Instance-Private_Subnet.png)
 
 ### RDS
 ![RDS](screenshots/RDS.png)
@@ -74,8 +72,8 @@ This project demonstrates the design and deployment of a secure multi-tier web a
 ![ALB-TargetGroup](screenshots/ALB-TargetGroup.png)
 
 ### IAM Roles
-![IAM Roles](screenshots/IAM Roles_S3_Dynamodb_Access.png)
-![IAM Roles Attach to Instance](screenshots/IAM Role_attach_Instance.png)
+![IAM Roles](screenshots/IAM-Roles_S3_Dynamodb_Access.png)
+![IAM Roles Attach to Instance](screenshots/IAM-Role_attach_Instance.png)
 
 ### Instance-Public_Subnet
 ![Instance-Public_Subnet](screenshots/Instance-Public_Subnet.png)
@@ -90,16 +88,13 @@ This project demonstrates the design and deployment of a secure multi-tier web a
 ![LoadBalancer-DNS_URL](screenshots/LoadBalancer-DNS_URLs.png)
 
 ### HostedZone-Route53
-![HostedZone-Route53(screenshots/HostedZone-Route53.png)
+![HostedZone-Route53](screenshots/HostedZone-Route53.png)
 
 ### CustomDomainURL
 ![CustomDomainURL](screenshots/CustomDomainURL.png)
 
 ### RDS-Data
 ![RDS-Data](screenshots/RDS-Data.png)
-
-### Route Tables
-![RouteTables](screenshots/RouteTables.png)
 
 ### Uploaded-Images-S3
 ![Uploaded-Images-S3](screenshots/Uploaded-Images-S3.png)
