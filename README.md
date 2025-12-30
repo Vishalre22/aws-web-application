@@ -85,7 +85,7 @@ This project demonstrates the design and deployment of a secure multi-tier web a
 ![PythonScript_PrivateInstance](screenshots/PythonScript_PrivateInstance.png)
 
 ### LoadBalancer-DNS_URL
-![LoadBalancer-DNS_URL](screenshots/LoadBalancer-DNS_URLs.png)
+![LoadBalancer-DNS_URL](screenshots/LoadBalancer-DNS_URL.png)
 
 ### HostedZone-Route53
 ![HostedZone-Route53](screenshots/HostedZone-Route53.png)
